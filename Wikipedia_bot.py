@@ -2,7 +2,7 @@ import logging
 from aiogram import  Bot, Dispatcher, executor, types
 import wikipedia as wk
 import knopka as knk
-API_TOKEN = '5495998861:AAHv8JQ70OSD0oxiSLd5IP_6r-BYLxDF034'
+API_TOKEN = 'Write telegram bot api token'
 
 
 logging.basicConfig(level=logging.INFO)
